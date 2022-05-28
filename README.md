@@ -20,7 +20,7 @@ https://www.forbes.com/sites/forbestechcouncil/2022/05/04/the-rise-of-web3-what-
 
 https://rattibha.com/thread/1497126237864615957?lang=en
 
-* **Videos:-**
+* **Videos and talks:-**
 
 https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX
 
