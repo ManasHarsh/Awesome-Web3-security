@@ -28,6 +28,8 @@ https://medium.com/superfluid-blog/hackfs-the-promise-of-web3-ab4330f93d1c
 
 https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8
 
+https://sm4rty.medium.com/roadmap-for-web3-smart-contract-hacking-2022-229e4e1565f9
+
 
 * **Videos and talks:-**
 
